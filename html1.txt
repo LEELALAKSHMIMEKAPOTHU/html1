@@ -1,0 +1,14 @@
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1><strong>HAPPY FRIENDSHIPDAY</strong></h1>
+<p><i>Friends will play a major role in our life,in every stage of life we make friendship with people.so make friendship with pure souls</i></p>
+<p><em>once again happy friendship day to my dear friend</em></p>
+<img src="https://www.desicomments.com/dc3/21/443661/4436611.jpg" alt="Happy Friendship Day Picture" />" alt="friends" width="600" height="400"
+
+</body>
+</html>
+
+
